@@ -1,9 +1,8 @@
-# Bank Customer Churn Prediction
-📌 Project Overview
+## Project Overview
 
 This project focuses on predicting customer churn in a retail bank using machine learning techniques. Churn — when customers leave the bank — directly impacts profitability. By analyzing customer demographics, account information, and behavioral patterns, this project aims to identify the most influential features contributing to churn and build predictive models to assist in retention strategies.
 
-Dataset – The analysis is based on a dataset of 10,000 customers with features such as:
+# Dataset – The analysis is based on a dataset of 10,000 customers with features such as:
 Age
 Gen der
 Balance
@@ -14,14 +13,14 @@ Geography
 Estimated Salary
 Churn Label (Exited/Stayed)
 
-#Tools & Libraries Used
+# Tools & Libraries Used
 Python (Jupyter Notebook)
 Pandas, NumPy – Data manipulation & preprocessing
 Matplotlib, Seaborn – Visualization
 Scikit-learn – Machine learning models & evaluation
 Imbalanced-learn – Handling class imbalance
 
-#Workflow
+# Workflow
 
 Data Exploration & Cleaning
 Checked missing values, duplicates, and outliers
